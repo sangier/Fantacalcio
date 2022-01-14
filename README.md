@@ -1,4 +1,7 @@
 # Fantacalcio
+
+This repo is just an exercise with DataFrames. 
+
 Python Script per calcolare le statistiche relative agli ultimi 5 anni di campionato. 
 
 Run History.py 
