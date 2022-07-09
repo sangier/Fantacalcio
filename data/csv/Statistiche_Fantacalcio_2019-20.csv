@@ -1,0 +1,810 @@
+"Statistiche Fantacalcio 2019-20 ",,,,,,,,,,,,,,,,
+Id,R,Nome,Squadra,Pg,Mv,Mf,Gf,Gs,Rp,Rc,R+,R-,Ass,Amm,Esp,Au
+4,P,SPORTIELLO,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,D,CONTI,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,D,MASIELLO,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,C,"DE ROON",Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,C,GOMEZ,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,P,MIRANTE,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,C,DIAWARA,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,D,HYSAJ,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,D,"MARIO RUI",Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,C,KRUNIC,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,C,ZIELINSKI,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,P,TATARUSANU,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+177,A,ILICIC,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,C,VECINO,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,C,BERNARDESCHI,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,A,REBIC,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,D,IZZO,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,C,PEROTTI,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,C,RINCON,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,P,HANDANOVIC,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,D,BIRAGHI,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,D,D'AMBROSIO,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,C,BROZOVIC,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,C,KONDOGBIA,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,C,KOVACIC,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,C,SHAQIRI,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,A,ICARDI,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+282,P,BUFFON,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,P,NETO,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,D,BONUCCI,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,D,CHIELLINI,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,D,RUGANI,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,D,ASAMOAH,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,C,KHEDIRA,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,C,PEREYRA,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,C,POGBA,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+307,C,COMAN,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+309,A,DYBALA,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,A,LLORENTE,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,A,MANDZUKIC,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,A,MORATA,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+322,D,"DE VRIJ",Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,D,RADU,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,C,BIGLIA,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,C,CANDREVA,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,C,CATALDI,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,C,"FELIPE ANDERSON","West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+338,C,LULIC,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,C,PAROLO,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,P,"DONNARUMMA G.",Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,D,CALABRIA,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,D,"DE SCIGLIO",Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,C,BONAVENTURA,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,C,SUSO,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,C,VERDI,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,P,REINA,"Aston Villa",0,0,0,0,0,0,0,0,0,0,0,0,0
+390,D,GHOULAM,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,D,KOULIBALY,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,C,ALLAN,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,C,JORGINHO,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,C,CALLEJON,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,A,HIGUAIN,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,A,INSIGNE,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,A,MERTENS,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,D,"EMERSON P.",Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,A,BELOTTI,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,C,VAZQUEZ,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,P,SZCZESNY,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,D,MANOLAS,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,D,ROMAGNOLI,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,D,FLORENZI,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+467,C,NAINGGOLAN,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,C,PAREDES,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+469,C,PJANIC,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,C,STROOTMAN,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+474,A,GERVINHO,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+475,A,"IAGO FALQUE",Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,A,CORREA,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,A,MURIEL,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,D,ACERBI,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,D,VRSALJKO,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+530,C,"PELLEGRINI LO.",Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,A,BERARDI,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,A,POLITANO,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,P,PADELLI,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,D,MAKSIMOVIC,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,D,ZAPPACOSTA,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,A,QUAGLIARELLA,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+572,P,MERET,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+590,C,"BRUNO FERNANDES","Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+608,A,"ZAPATA D.",Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,P,GOLLINI,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+644,C,PULGAR,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+645,C,MILINKOVIC-SAVIC,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+646,A,SALAH,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,A,DZEKO,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,A,KALINIC,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+656,D,RUDIGER,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,D,DIGNE,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,D,"ALEX SANDRO",Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+695,D,TOLOI,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,A,BALOTELLI,Brescia,0,0,0,0,0,0,0,0,0,0,0,0,0
+697,C,CUADRADO,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+704,C,PERISIC,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+706,C,ANSALDI,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+771,A,BOATENG,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+779,C,CRISTANTE,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+785,A,IMMOBILE,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+787,D,DJIMSITI,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+788,C,FREULER,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,D,SKRINIAR,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+801,C,GAGLIARDINI,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+1847,D,CALDARA,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+1850,C,KESSIE',Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+1852,D,SPINAZZOLA,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+1870,C,BARELLA,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+1874,A,"JOAO PEDRO",Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+1917,P,DRAGOWSKI,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+1923,C,OCAMPOS,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+1929,C,BANEGA,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+1934,P,STRAKOSHA,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+1964,P,ALISSON,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+1972,C,TORREIRA,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+1974,A,SCHICK,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+1978,C,SENSI,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+1996,C,"DE PAUL",Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C,CHIESA,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,D,LIROLA,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,A,MILIK,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,D,FAZIO,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2038,A,PINAMONTI,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2065,C,PRAET,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2077,C,PASALIC,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2085,C,"LUIS ALBERTO",Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2097,A,KEAN,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2119,A,DEULOFEU,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0
+2120,D,BASTONI,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2130,D,HATEBOER,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2155,A,CUTRONE,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2160,D,GOSENS,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2164,D,MILENKOVIC,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2166,C,BENTANCUR,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2168,D,MUSACCHIO,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2169,D,"RODRIGUEZ R.",Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2179,P,SIRIGU,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2181,D,PALOMINO,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2188,C,MARUSIC,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2194,C,CALHANOGLU,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2197,D,CASTAGNE,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2200,C,"DOUGLAS COSTA",Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2201,C,UNDER,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2209,C,"LUCAS LEIVA",Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2214,D,KOLAROV,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2215,C,VERETOUT,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2263,C,LAZZARI,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2284,A,CAICEDO,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2288,D,N'KOULOU,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2296,D,MANCINI,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2306,C,MATUIDI,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2309,D,"PEZZELLA GER.",Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2310,D,CANCELO,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2320,D,ANDERSEN,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+2333,A,"PEDRO NETO",Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2335,D,"LUIZ FELIPE",Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2349,D,SIDIBE',Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2350,C,FABINHO,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2351,C,LEMAR,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2352,C,TIELEMANS,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2356,D,SARR,Nizza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2357,C,CYPRIEN,Nizza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2360,D,"MARCELO G.","Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+2361,C,TOUSART,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+2362,A,DEPAY,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+2363,A,"DIAZ M.","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2367,C,PAYET,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+2368,C,SANSON,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+2369,A,THAUVIN,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+2370,P,AREOLA,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2371,P,TRAPP,"Eintracht Francoforte",0,0,0,0,0,0,0,0,0,0,0,0,0
+2372,D,KIMPEMBE,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2373,D,KURZAWA,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2374,D,MARQUINHOS,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2375,D,MEUNIER,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2376,D,"THIAGO SILVA","Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2377,C,DRAXLER,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2378,C,PASTORE,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2379,C,RABIOT,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2380,C,VERRATTI,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2381,A,CAVANI,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2382,A,"DI MARIA","Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2383,A,MBAPPE',"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2384,A,NEYMAR,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2387,P,LAFONT,Nantes,0,0,0,0,0,0,0,0,0,0,0,0,0
+2388,D,DIOP,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+2393,D,HINTEREGGER,"Eintracht Francoforte",0,0,0,0,0,0,0,0,0,0,0,0,0
+2394,A,FINNBOGASON,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0
+2395,P,LENO,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2396,P,"OZCAN R.","Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2397,D,HENRICHS,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+2398,D,TAH,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2399,D,WENDELL,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2400,C,BRANDT,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2402,P,NEUER,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2403,P,ULREICH,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2404,D,ALABA,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2405,D,"BOATENG J.","Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2406,D,HUMMELS,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2407,D,KIMMICH,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2408,D,SULE,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2409,C,RIBERY,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2411,C,"RODRIGUEZ J.","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2412,C,THIAGO,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2413,C,TOLISSO,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2414,C,VIDAL,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2415,A,LEWANDOWSKI,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2416,A,MULLER,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2417,D,BARTRA,Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+2418,C,GUERREIRO,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2419,D,SCHMELZER,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2420,D,SOKRATIS,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2422,A,GOTZE,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2423,C,PULISIC,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2424,C,WEIGL,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2426,A,AUBAMEYANG,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2428,P,SOMMER,"Borussia MGladbach",0,0,0,0,0,0,0,0,0,0,0,0,0
+2429,D,ELVEDI,"Borussia MGladbach",0,0,0,0,0,0,0,0,0,0,0,0,0
+2430,C,"HAZARD T.","Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2432,C,ZAKARIA,"Borussia MGladbach",0,0,0,0,0,0,0,0,0,0,0,0,0
+2438,A,JOVIC,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2440,D,WEISER,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2443,C,ZUBER,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0
+2444,A,KRAMARIC,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0
+2445,D,"DIALLO AB.","Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2447,D,ORBAN,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2448,D,UPAMECANO,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2449,C,FORSBERG,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2450,C,"KEITA N.",Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2451,C,SABITZER,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2452,A,WERNER,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2455,C,GORETZKA,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2466,A,ORIGI,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2468,P,OSPINA,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2469,D,BELLERIN,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2470,D,KOSCIELNY,Bordeaux,0,0,0,0,0,0,0,0,0,0,0,0,0
+2471,C,OZIL,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2472,C,RAMSEY,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2473,C,XHAKA,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2474,A,LACAZETTE,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2475,A,SANCHEZ,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2476,D,AKE',Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+2477,A,KING,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+2479,P,CABALLERO,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2480,P,COURTOIS,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2481,D,ALONSO,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2482,D,AZPILICUETA,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2484,D,"DAVID LUIZ",Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2485,C,FABREGAS,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+2486,A,"HAZARD E.","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2487,C,KANTE',Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2488,C,MOSES,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2489,A,PEDRO,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2490,D,FOSU-MENSAH,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2491,A,BENTEKE,"Crystal Palace",0,0,0,0,0,0,0,0,0,0,0,0,0
+2492,D,COLEMAN,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2493,C,SCHNEIDERLIN,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2494,C,SIGURDSSON,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2497,A,MAHREZ,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2498,C,NDIDI,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2499,A,VARDY,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2500,D,ALEXANDER-ARNOLD,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2501,D,CLYNE,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2502,D,"GOMEZ J.",Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2503,D,MATIP,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2504,C,"CAN ","Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2505,C,HENDERSON,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2506,A,COUTINHO,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2507,A,FIRMINO,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2508,A,MANE',Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2509,P,BRAVO,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2510,P,EDERSON,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2512,D,MENDY,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2513,D,OTAMENDI,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2514,D,STONES,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2515,D,WALKER,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2516,C,"DAVID SILVA","Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2517,C,"DE BRUYNE","Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2518,C,FERNANDINHO,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2519,A,AGUERO,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2520,A,"GABRIEL JESUS","Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2521,P,"DE GEA","Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2523,D,BAILLY,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2525,D,DARMIAN,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2527,C,MATA,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2528,C,MATIC,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2529,C,MKHITARYAN,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2530,A,IBRAHIMOVIC,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2531,A,LUKAKU,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2532,A,MARTIAL,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2533,A,RASHFORD,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2536,D,"VAN DIJK",Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2539,D,ZOUMA,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2543,C,"RENATO SANCHES",Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+2544,A,ABRAHAM,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2545,P,LLORIS,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2547,D,ALDERWEIRELD,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2548,D,AURIER,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2549,D,FOYTH,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2550,D,ROSE,"Newcastle United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2551,D,"SANCHEZ D.",Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2552,D,VERTONGHEN,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2553,C,ALLI,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2555,C,DIER,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2556,C,ERIKSEN,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2557,A,KANE,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2561,C,ANTONIO,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+2562,A,CHICHARITO,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2563,D,LAPORTE,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2567,A,"WILLIAMS I.","Athletic Bilbao",0,0,0,0,0,0,0,0,0,0,0,0,0
+2569,P,OBLAK,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2571,D,GIMENEZ,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2572,D,GODIN,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2573,D,SAVIC,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2574,C,"GELSON MARTINS",Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+2575,C,SAUL,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2576,A,CARRASCO,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2577,A,GRIEZMANN,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2578,P,CILLESSEN,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2579,P,"TER STEGEN",Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2580,D,"JORDI ALBA",Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2581,D,PIQUE',Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2582,D,SEMEDO,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2583,D,UMTITI,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2584,C,BUSQUETS,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2586,C,"RAKITIC ",Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2587,A,MESSI,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2588,A,"SUAREZ L.",Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2589,C,"CARVALHO W.",Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+2590,A,"MAXI GOMEZ",Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2592,C,VALVERDE,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2595,C,VITOLO,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2597,P,NAVAS,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+2598,D,CARVAJAL,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2599,D,MARCELO,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2600,D,"SERGIO RAMOS","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2601,D,VALLEJO,Granada,0,0,0,0,0,0,0,0,0,0,0,0,0
+2602,D,VARANE,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2603,C,CASEMIRO,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2604,C,ISCO,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2605,C,KROOS,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2606,C,MODRIC,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2607,A,ASENSIO,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2608,A,BALE,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2609,A,BENZEMA,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2610,A,RONALDO,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2613,D,"MARTINEZ I.","Athletic Bilbao",0,0,0,0,0,0,0,0,0,0,0,0,0
+2614,D,ODRIOZOLA,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2618,A,NOLITO,"Celta Vigo",0,0,0,0,0,0,0,0,0,0,0,0,0
+2619,P,DOMENECH,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2620,D,GARAY,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2621,D,GAYA',Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2622,C,PAREJO,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2623,C,"GONCALO GUEDES",Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2628,P,"ROMERO S.","Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2630,C,FEKIR,Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+2631,P,BURKI,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+2633,D,KJAER,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2635,D,TRIPPIER,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2636,A,SANE',"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2637,A,STERLING,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2638,C,WIJNALDUM,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+2639,C,BAKAYOKO,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+2640,D,KOLASINAC,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2655,C,RAFINHA,"Celta Vigo",0,0,0,0,0,0,0,0,0,0,0,0,0
+2665,A,DIABY,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2666,D,MAX,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0
+2667,A,WALCOTT,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2668,D,RETSOS,"Sheffield Utd",0,0,0,0,0,0,0,0,0,0,0,0,0
+2669,C,HAVERTZ,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2670,C,BAILEY,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2671,A,VOLLAND,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+2673,A,BATSHUAYI,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2674,D,GINTER,"Borussia MGladbach",0,0,0,0,0,0,0,0,0,0,0,0,0
+2675,D,VESTERGAARD,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2676,D,HECTOR,Colonia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2678,A,FULLKRUG,"Werder Brema",0,0,0,0,0,0,0,0,0,0,0,0,0
+2679,A,GNABRY,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+2680,C,HARIT,"Schalke 04",0,0,0,0,0,0,0,0,0,0,0,0,0
+2681,P,KEPA,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2682,A,"DIEGO COSTA","Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2683,C,THOMAS,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+2684,A,"DEMBELE' O.",Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2686,A,ASPAS,"Celta Vigo",0,0,0,0,0,0,0,0,0,0,0,0,0
+2688,A,OYARZABAL,"Real Sociedad",0,0,0,0,0,0,0,0,0,0,0,0,0
+2689,D,LENGLET,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2690,D,"GABRIEL PAULISTA",Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2691,A,RODRIGO,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2692,C,CASTILLEJO,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2693,C,FORNALS,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+2694,C,"RONY LOPES",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2695,D,TETE,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+2696,D,AMAVI,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+2697,D,MUSTAFI,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+2698,D,MONREAL,"Real Sociedad",0,0,0,0,0,0,0,0,0,0,0,0,0
+2699,C,BARKLEY,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2700,C,WILLIAN,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+2701,P,PICKFORD,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+2704,P,SCHMEICHEL,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+2705,A,LINGARD,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2706,D,JONES,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+2707,D,YOUNG,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2710,A,"LUCAS MOURA",Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2711,A,SON,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+2712,C,DOUCOURE',Watford,0,0,0,0,0,0,0,0,0,0,0,0,0
+2713,D,ZABALETA,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+2728,D,"PELLEGRINI LU.",Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2756,A,PIATEK,"Hertha Berlino",0,0,0,0,0,0,0,0,0,0,0,0,0
+2759,D,CRISCITO,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2764,A,"MARTINEZ L.",Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2766,C,ZANIOLO,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2770,P,PROTO,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2775,C,RUIZ,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2779,C,KLUIVERT,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2816,D,"DI LORENZO",Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2818,C,BENNACER,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2819,A,CAPUTO,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2832,A,BOGA,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2833,C,KULUSEVSKI,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2839,A,SOTTIL,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2841,A,VLAHOVIC,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2857,C,"TRAORE' HJ.",Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+4135,A,BAMBA,Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4136,C,GOLOVIN,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4137,D,"DIEGO CARLOS",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4140,P,LOPES,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4141,D,"MENDY F.","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4142,C,AOUAR,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4143,C,NDOMBELE',Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4144,A,"DEMBELE' M.","Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4145,A,"TRAORE' B.","Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4147,D,CALETA-CAR,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+4149,D,BERNAT,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4150,D,KEHRER,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4152,C,BOURIGEAUD,Rennes,0,0,0,0,0,0,0,0,0,0,0,0,0
+4154,P,HRADECKY,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4155,A,ALARIO,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4157,C,"MARTINEZ J.","Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+4159,D,AKANJI,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4160,D,HAKIMI,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4161,C,DAHOUD,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4162,C,DELANEY,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4163,C,WITSEL,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4164,A,ALCACER,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4165,A,REUS,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4166,A,SANCHO,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4167,A,PLEA,"Borussia MGladbach",0,0,0,0,0,0,0,0,0,0,0,0,0
+4171,D,KLOSTERMANN,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4172,D,SARACCHI,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4173,C,KAMPL,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4177,D,PAVARD,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+4178,C,ASCACIBAR,"Hertha Berlino",0,0,0,0,0,0,0,0,0,0,0,0,0
+4181,C,"EGGESTEIN M.","Werder Brema",0,0,0,0,0,0,0,0,0,0,0,0,0
+4182,C,KLAASSEN,"Werder Brema",0,0,0,0,0,0,0,0,0,0,0,0,0
+4185,D,MAITLAND-NILES,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4186,C,GUENDOUZI,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4187,A,IWOBI,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4189,C,LERMA,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+4190,C,GROSS,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4192,D,TARKOWSKI,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0
+4198,D,CHRISTENSEN,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4199,C,LOFTUS-CHEEK,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4200,A,GIROUD,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4206,C,MILIVOJEVIC,"Crystal Palace",0,0,0,0,0,0,0,0,0,0,0,0,0
+4207,A,ZAHA,"Crystal Palace",0,0,0,0,0,0,0,0,0,0,0,0,0
+4208,D,BAINES,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4209,D,KEANE,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4210,D,MINA,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4211,C,"ANDRE' GOMES",Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4212,C,GUEYE,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4213,A,BERNARD,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4214,A,CALVERT-LEWIN,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4215,A,RICHARLISON,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4216,A,TOSUN,"Crystal Palace",0,0,0,0,0,0,0,0,0,0,0,0,0
+4217,D,CHAMBERS,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4219,C,SESSEGNON,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4223,D,CHILWELL,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4224,D,MAGUIRE,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4225,D,"PEREIRA R.","Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4226,D,SOYUNCU,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4227,C,MADDISON,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4229,C,"GRAY D.","Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4231,D,LOVREN,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4233,D,ROBERTSON,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4234,C,MILNER,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4237,D,DANILO,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+4238,C,DELPH,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4239,C,"BERNARDO SILVA","Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4240,C,FODEN,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4241,C,GUNDOGAN,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4242,D,DALOT,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4243,D,LINDELOF,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4244,D,SHAW,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4245,D,SMALLING,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+4247,C,FRED,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4248,C,HERRERA,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4249,C,"PEREIRA A.","Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4255,A,"PEREZ A.","Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4257,D,"DAVIES B.",Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4258,C,"SISSOKO M.",Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4259,C,WANYAMA,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4260,C,WINKS,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4261,A,LAMELA,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4264,P,FABIANSKI,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4265,D,OGBONNA,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4266,C,NOBLE,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4267,C,WILSHERE,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4269,A,YARMOLENKO,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4270,P,"RUI PATRICIO",Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4271,D,JONNY,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4272,C,DENDONCKER,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4273,C,MOUTINHO,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4274,C,"RUBEN NEVES",Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4275,A,"DIOGO JOTA",Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4276,A,JIMENEZ,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4277,D,BERCHICHE,"Athletic Bilbao",0,0,0,0,0,0,0,0,0,0,0,0,0
+4278,P,ADAN,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4279,D,ARIAS,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4280,D,"HERNANDEZ L.","Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+4282,C,"CORREA A.","Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4283,C,RODRI,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4284,D,"SERGI ROBERTO",Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4285,C,ARTHUR,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4286,C,"LO CELSO",Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4287,C,LOBOTKA,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+4288,P,LUNIN,Valladolid,0,0,0,0,0,0,0,0,0,0,0,0,0
+4289,D,NACHO,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4290,C,"VAZQUEZ L.","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4291,A,"VINICIUS JUNIOR","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4292,D,"HERNANDEZ T.",Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+4293,A,"WILLIAN JOSE'","Real Sociedad",0,0,0,0,0,0,0,0,0,0,0,0,0
+4294,P,VACLIK,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4296,C,SARABIA,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4298,C,SOLER,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4299,A,GAMEIRO,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4301,C,"DAVIES T.",Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4304,C,KOKE,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4311,A,KAMANO,Bordeaux,0,0,0,0,0,0,0,0,0,0,0,0,0
+4312,P,MAIGNAN,Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4313,C,"THIAGO MENDES","Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4314,A,"PEPE N.",Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4315,D,LALA,"Racing Strasburgo",0,0,0,0,0,0,0,0,0,0,0,0,0
+4316,C,NEUHAUS,"Borussia MGladbach",0,0,0,0,0,0,0,0,0,0,0,0,0
+4317,D,N'DICKA,"Eintracht Francoforte",0,0,0,0,0,0,0,0,0,0,0,0,0
+4318,A,HALLER,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4319,C,RICE,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4320,D,FIRPO,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4321,C,"MENDEZ B.","Celta Vigo",0,0,0,0,0,0,0,0,0,0,0,0,0
+4322,C,PAQUETA',Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+4332,D,DEMIRAL,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+4342,C,DUDA,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0
+4344,A,"BEN YEDDER",Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4345,A,KHAZRI,"Saint Etienne",0,0,0,0,0,0,0,0,0,0,0,0,0
+4377,C,CASTROVILLI,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+4385,C,LAZARO,"Newcastle United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4388,A,ADEKANYE,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+4397,D,VAVRO,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+4409,D,RRAHMANI,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4415,A,"SKOV OLSEN",Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+4419,P,"PAU LOPEZ",Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+4424,C,JONY,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+4427,C,MALINOVSKYI,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+4428,D,"DE LIGT",Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+4449,C,TONALI,Brescia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4463,A,ESPOSITO,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+4479,C,ELMAS,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+4495,D,KUMBULLA,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4510,A,"RAFAEL LEAO",Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+4511,D,DUARTE,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+4512,C,SCHONE,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+4517,A,LOZANO,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+4521,D,MULDUR,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+4522,C,AMRABAT,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4526,D,ARANA,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+4656,C,TCHOUAMENI,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4657,D,CELIK,Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4658,C,IKONE',Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4659,C,SOUMARE',Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4660,C,YAZICI,Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4661,A,OSIMHEN,Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4662,A,WEAH,Lilla,0,0,0,0,0,0,0,0,0,0,0,0,0
+4663,P,LECOMTE,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4664,D,BADIASHILE,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4665,D,MARIPAN,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4666,A,AUGUSTIN,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4667,C,RONGIER,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+4668,D,ATAL,Nizza,0,0,0,0,0,0,0,0,0,0,0,0,0
+4669,D,NSOKI,Nizza,0,0,0,0,0,0,0,0,0,0,0,0,0
+4670,A,DOLBERG,Nizza,0,0,0,0,0,0,0,0,0,0,0,0,0
+4671,A,MAOLIDA,Nizza,0,0,0,0,0,0,0,0,0,0,0,0,0
+4672,D,DENAYER,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4673,D,DUBOIS,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4674,D,"KONE' Y.","Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4675,D,MARCAL,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4676,C,REINE-ADELAIDE,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4677,A,CORNET,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4678,A,GOUIRI,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4679,A,TERRIER,"Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4680,D,KAMARA,"Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+4681,C,"LOPEZ M.","Olympique Marsiglia",0,0,0,0,0,0,0,0,0,0,0,0,0
+4682,P,"RICO S.","Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4683,D,DAGBA,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4684,D,"MBE SOH","Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4685,A,CHOUPO-MOTING,"Paris Saint-Germain",0,0,0,0,0,0,0,0,0,0,0,0,0
+4686,C,"FOFANA Y.",Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
+4687,D,MARESIC,Reims,0,0,0,0,0,0,0,0,0,0,0,0,0
+4688,C,CAMAVINGA,Rennes,0,0,0,0,0,0,0,0,0,0,0,0,0
+4689,D,SALIBA,"Saint Etienne",0,0,0,0,0,0,0,0,0,0,0,0,0
+4690,C,SANGARE',Tolosa,0,0,0,0,0,0,0,0,0,0,0,0,0
+4691,D,"BENDER S.","Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4692,D,DRAGOVIC,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4693,C,AMIRI,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4694,C,ARANGUIZ,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4695,C,BAUMGARTLINER,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4696,C,BELLARABI,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4697,C,"BENDER L.","Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4698,C,DEMIRBAY,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4699,C,"PAULINHO S.","Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4700,D,MAI,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+4701,C,CUISANCE,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+4702,A,ARP,"Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+4703,A,"DAVIES A.","Bayern Monaco",0,0,0,0,0,0,0,0,0,0,0,0,0
+4704,P,HITZ,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4705,D,BALERDI,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4706,D,PISZCZEK,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4707,D,SCHULZ,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4708,D,ZAGADOU,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4709,A,"BRUUN LARSEN",Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0
+4710,D,BORNAUW,Colonia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4711,C,KOSTIC,"Eintracht Francoforte",0,0,0,0,0,0,0,0,0,0,0,0,0
+4712,A,DOST,"Eintracht Francoforte",0,0,0,0,0,0,0,0,0,0,0,0,0
+4713,A,JOVELJIC,"Eintracht Francoforte",0,0,0,0,0,0,0,0,0,0,0,0,0
+4714,C,MAIER,"Hertha Berlino",0,0,0,0,0,0,0,0,0,0,0,0,0
+4715,D,KADERABEK,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0
+4716,D,RIBEIRO,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0
+4717,P,"GULACSI ",Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4718,P,MVOGO,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4719,D,AMPADU,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4720,D,CANDIDO,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4721,D,HALSTENBERG,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4722,D,"KONATE' I.",Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4723,D,MUKIELE,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4724,C,ADAMS,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4725,C,DEMME,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+4726,C,HAIDARA,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4727,C,LAIMER,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4728,C,NKUNKU,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4729,C,"WOLF H.",Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4730,A,LOOKMAN,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4731,A,"MATHEUS CUNHA","Hertha Berlino",0,0,0,0,0,0,0,0,0,0,0,0,0
+4732,A,POULSEN,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4733,D,KABAK,"Schalke 04",0,0,0,0,0,0,0,0,0,0,0,0,0
+4734,D,"MIRANDA J","Schalke 04",0,0,0,0,0,0,0,0,0,0,0,0,0
+4735,A,KUTUCU,"Schalke 04",0,0,0,0,0,0,0,0,0,0,0,0,0
+4736,A,MATONDO,"Schalke 04",0,0,0,0,0,0,0,0,0,0,0,0,0
+4737,A,SARGENT,"Werder Brema",0,0,0,0,0,0,0,0,0,0,0,0,0
+4738,P,"MARTINEZ E.",Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4739,D,HOLDING,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4740,D,TIERNEY,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4741,C,CEBALLOS,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4742,C,WILLOCK,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4744,A,NELSON,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4745,C,GREALISH,"Aston Villa",0,0,0,0,0,0,0,0,0,0,0,0,0
+4746,A,WESLEY,"Aston Villa",0,0,0,0,0,0,0,0,0,0,0,0,0
+4747,C,FRASER,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+4748,A,WILSON,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0
+4749,C,BALUTA,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4750,C,MCNEIL,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0
+4751,D,TOMORI,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4752,C,MOUNT,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4753,A,HUDSON-ODOI,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4754,P,LOSSL,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4755,D,HOLGATE,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4756,C,GBAMIN,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4757,P,"WARD D.","Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4758,D,BENKOVIC,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4759,D,EVANS,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4760,D,FUCHS,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4761,D,JUSTIN,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4762,D,MORGAN,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4763,C,ALBRIGHTON,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4764,C,BARNES,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4765,C,CHOUDHURY,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4766,C,"MENDY N.","Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4767,A,IHEANACHO,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4768,P,ADRIAN,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4769,D,HOEVER,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4770,C,LALLANA,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4771,C,OXLADE-CHAMBERLAIN,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4772,D,ANGELINO,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4773,D,ZINCHENKO,"Manchester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4774,D,ROJO,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4775,D,TUANZEBE,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4776,D,WAN-BISSAKA,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4777,C,MCTOMINAY,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4778,A,GREENWOOD,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4779,A,JAMES,"Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4781,A,PUKKI,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0
+4782,D,VALERY,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4783,C,WARD-PROWSE,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4784,P,GAZZANIGA,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4785,D,WALKER-PETERS,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4786,C,SKIPP,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4787,C,QUINA,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0
+4788,A,"SARR I.",Watford,0,0,0,0,0,0,0,0,0,0,0,0,0
+4789,P,ROBERTO,Alavés,0,0,0,0,0,0,0,0,0,0,0,0,0
+4790,D,BALBUENA,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4791,D,CARDOSO,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4792,D,CRESSWELL,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4793,D,FREDERICKS,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4794,D,MASUAKU,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4795,C,LANZINI,"West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4796,A,"AJETI A.","West Ham",0,0,0,0,0,0,0,0,0,0,0,0,0
+4797,P,RUDDY,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4798,D,BENNETT,"Leicester City",0,0,0,0,0,0,0,0,0,0,0,0,0
+4799,D,BOLY,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4800,D,COADY,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4801,D,DOHERTY,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4802,D,VINAGRE,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4803,C,GIBBS-WHITE,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4804,C,SAISS,Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4805,C,"TRAORE' A",Wolverhampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4806,D,"FELIPE A.","Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4807,D,HERMOSO,"Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4808,D,"RENAN LODI","Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4809,C,"HERRERA H.","Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4810,C,"LLORENTE M.","Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4811,A,"JOAO FELIX","Atletico Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4812,D,TODIBO,"Schalke 04",0,0,0,0,0,0,0,0,0,0,0,0,0
+4813,C,ALENA,Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+4814,C,"DE JONG F.",Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4815,C,PUIG,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4816,D,"EMERSON ROYAL",Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+4817,D,PEDRAZA,Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+4818,C,CANALES,Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+4819,C,LAINEZ,Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+4820,A,IGLESIAS,Betis,0,0,0,0,0,0,0,0,0,0,0,0,0
+4821,C,BELTRAN,"Celta Vigo",0,0,0,0,0,0,0,0,0,0,0,0,0
+4822,C,ROCA,Espanyol,0,0,0,0,0,0,0,0,0,0,0,0,0
+4823,A,"HERNANDEZ C.",Maiorca,0,0,0,0,0,0,0,0,0,0,0,0,0
+4824,D,MILITAO,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4825,C,"DIAZ B.","Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4826,A,RODRYGO,"Real Madrid",0,0,0,0,0,0,0,0,0,0,0,0,0
+4827,A,BARRENETXEA,"Real Sociedad",0,0,0,0,0,0,0,0,0,0,0,0,0
+4828,A,ISAK,"Real Sociedad",0,0,0,0,0,0,0,0,0,0,0,0,0
+4829,P,BONO,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4830,D,CARRICO,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4831,D,ESCUDERO,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4832,D,KOUNDE',Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4834,D,REGUILON,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4835,D,"SERGI GOMEZ",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4837,C,GUDELJ,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4838,C,JORDAN,Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4839,C,"TORRES O.",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4840,A,DABBUR,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0
+4841,A,"DE JONG L.",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4842,A,"MUNIR EL HADDADI",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4843,A,GIL,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0
+4845,D,"CORREIA T.",Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4846,D,"COSTA J.",Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4847,D,DIAKHABY,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4848,D,MANGALA,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4849,D,WASS,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4850,C,CHERYSHEV,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4851,C,COQUELIN,Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4852,C,"LEE K.",Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4853,C,"TORRES F.",Valencia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4854,D,PORRO,Valladolid,0,0,0,0,0,0,0,0,0,0,0,0,0
+4855,C,MORLANES,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4856,A,CHUKWUEZE,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4857,A,MARTINELLI,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4858,D,"AARONS M.",Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0
+4859,D,"NAVAS J.",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4860,C,"FERNANDO REGES",Siviglia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4871,A,THURAM,"Borussia MGladbach",0,0,0,0,0,0,0,0,0,0,0,0,0
+4872,A,RASHICA,"Werder Brema",0,0,0,0,0,0,0,0,0,0,0,0,0
+4873,A,FATI,Barcellona,0,0,0,0,0,0,0,0,0,0,0,0,0
+4874,D,"JAMES R.",Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0
+4875,D,"WILLIAMS B.","Manchester United",0,0,0,0,0,0,0,0,0,0,0,0,0
+4876,A,MINAMINO,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0
+4877,A,HAALAND,"Borussia Dortmund",0,0,0,0,0,0,0,0,0,0,0,0,0
+4884,A,"CARLES PEREZ",Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+4892,C,SAELEMAEKERS,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+4900,C,PALACIOS,"Bayer Leverkusen",0,0,0,0,0,0,0,0,0,0,0,0,0
+4901,C,"GEDSON FERNANDES",Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4902,C,OLMO,Lipsia,0,0,0,0,0,0,0,0,0,0,0,0,0
+4903,A,BERGWIJN,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4904,D,MARI',Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4905,C,BERGE,"Sheffield Utd",0,0,0,0,0,0,0,0,0,0,0,0,0
+4906,C,"BRUNO GUIMARAES","Olympique Lione",0,0,0,0,0,0,0,0,0,0,0,0,0
+4907,D,SAKA,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4908,D,TANGANGA,Tottenham,0,0,0,0,0,0,0,0,0,0,0,0,0
+4909,C,CANTWELL,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0
+4910,D,MINGS,"Aston Villa",0,0,0,0,0,0,0,0,0,0,0,0,0
+4911,C,"DOUGLAS LUIZ","Aston Villa",0,0,0,0,0,0,0,0,0,0,0,0,0
+4912,C,ODEGAARD,"Real Sociedad",0,0,0,0,0,0,0,0,0,0,0,0,0
+4913,C,CAZORLA,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0
+4914,A,NIEDERLECHNER,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0
+4915,A,INGS,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0
+4916,A,SLIMANI,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0
