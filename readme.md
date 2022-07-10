@@ -1,4 +1,4 @@
-# L'AnoRitmo***
+# L'AnoRitmo
 
 ## Gli inizi ed il battesimo  
 
