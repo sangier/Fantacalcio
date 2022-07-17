@@ -10,6 +10,7 @@ Convert(){
         rm  "../data/csvStats/$filename.csv"
         echo "Converting Files.." 
         ssconvert $file ../data/temp/$filename.csv
+        
         #cat ../data/temp/$filename.txt
         echo "Deleting First two lines.."
         #sed 1,2d ../data/csvStats/$filename.csv
