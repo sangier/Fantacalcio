@@ -5,7 +5,7 @@ CurrentPlayers(){
    #read varname
    #awk -F "," '{print $3} ' ../data/csv/Statistiche_Fantacalcio_$varname.csv > ../data/playerNames/names.csv
    rm names.csv
-   awk -F "," '{print $3} ' ../data/csvStats/Statistiche_Fantacalcio_2021-22.csv > ../data/temp/names.csv
+   awk -F "," '{print $3} ' ../data/csvStats/Statistiche_Fantacalcio_2021-22.csv > ../data/anoritmo/names.csv
 
 }
 
@@ -17,7 +17,7 @@ PlayersStats(){
         for file in ../data/csvStats/*.csv ; do
         grep $p, $file >>../data/temp/stats.csv 
         done
-   done <../data/playerNames/names.csv
+   done <../data/anoritmo/names.csv
 
 }
 

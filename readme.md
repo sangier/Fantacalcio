@@ -4,10 +4,9 @@
 
 AnoRitmo è il nome con cui gli amici della nostra lega FantaLemon8 hanno battezzato il nostro algoritmo per l'anilisi statistica del fantacalcio. 
 
-Motivati dalle costanti umiliazioni dei primi anni fantacaliscistici, nel 2018 abbiamo deciso di sviluppare uno strumento che ci consentisse di giungere alla fatidica asta del fantacalcio un po` più preparati. 
+Motivati dalle costanti umiliazioni dei primi anni fantacaliscistici, nel 2019 abbiamo deciso di sviluppare uno strumento che ci consentisse di giungere alla fatidica asta del fantacalcio un po` più preparati. 
 
-Gli anni di testing hanno porhanno portato ai segunti risultati: 
-- 2018-19 : Fantalemon8,1o Scontri, ? Punti 
+Gli anni di testing hanno porhanno portato ai segunti risultati:  
 - 2019-20 : Fantalemon8,1o Scontri, ? Punti   
 - 2020-21 : Fantalemon8,1o Scontri, 1o Coopa
 - 2021-22 : Due Partecipazioni  
@@ -62,7 +61,10 @@ E.g.
 
 ### Come lanciare il programma 
 
+Download i file delle statistiche delle precenti stagioni e copiale in `data/xlsxStats`.
 
-
+`cd scripts` 
+`./xlsx-to-csv.sh`
+`./extractPlayers.sh`
 
 
