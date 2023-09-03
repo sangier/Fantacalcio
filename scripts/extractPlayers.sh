@@ -5,7 +5,7 @@ CurrentPlayers(){
    #read varname
    #awk -F "," '{print $3} ' ../data/csv/Statistiche_Fantacalcio_$varname.csv > ../data/playerNames/names.csv
    rm names.csv
-   awk -F "," '{print $3} ' ../data/csvStats/Statistiche_Fantacalcio_2021-22.csv > ../data/anoritmo/names.csv
+   awk -F "," '{print $3} ' ../data/csvStats/Statistiche_Fantacalcio_2023-24.csv > ../data/anoritmo/names.csv
    rm ../data/anoritmo/PlayerStats.csv 
 
 }

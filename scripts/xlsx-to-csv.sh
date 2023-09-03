@@ -9,6 +9,7 @@ Convert(){
         echo "Removing Old Output.."
         rm  "../data/csvStats/$filename.csv"
         echo "Converting Files.." 
+	    mkdir -p ../data/temp/
         ssconvert $file ../data/temp/$filename.csv
         
         #cat ../data/temp/$filename.txt
